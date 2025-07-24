@@ -218,7 +218,7 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b><blockquote>➲ Bʀᴀɴᴅᴇᴅ Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |⏤͟͞●</blockquote></b>\n\n<b><blockquote>➠ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>➠ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ </b> {3}<b></blockquote>\n<b><blockquote>➠ ϻᴧᴅє ʙʏ  ➛[𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 📿](https://t.me/BRANDEDKING8)</b></blockquote>"
+stream_1 : "<b><blockquote>➲ Bʀᴀɴᴅᴇᴅ Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |⏤͟͞●</blockquote></b>\n\n<b><blockquote>➠ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>➠ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ </b> {3}<b></blockquote>\n<b><blockquote>➠ ϻᴧᴅє ʙʏ  ➛[ ɴᴏʙɪᴛᴀ 𓆩🇽𓆪 ɴᴇᴛᴡᴏʀᴋ ⚡](https://t.me/NOBITA_NETW0RK)</b></blockquote>"
 stream_2 : "<b><blockquote>➲ Bʀᴀɴᴅᴇᴅ Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |⏤͟͞●</blockquote></b>\n\n<b><blockquote>➠ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}</blockquote>"
 
 #General
@@ -251,14 +251,14 @@ SG_B_2 : "🎧 ᴀᴜᴅɪᴏ 🎧"
 SG_B_3 : "🎥 ᴠɪᴅᴇᴏ 🎥"
 
 # Start
-S_B_1 : "🥀 ᴀᴅᴅ ᴍᴇ 🥀"
+S_B_1 : "💓 ᴀᴅᴅ ᴍᴇ 💓"
 S_B_2 : "🥀 sᴜᴘᴘᴏʀᴛ 🥀"
 S_B_3 : "➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕"
-S_B_4 : "🥀 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅ 🥀"
-S_B_5 : "🥀 ᴏᴡɴᴇʀ 🥀"
+S_B_4 : "💌 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅ 💌"
+S_B_5 : "🌸 ᴏᴡɴᴇʀ 🌸"
 S_B_6 : "🥀 ᴄʜᴀɴɴᴇʟ 🥀"
-S_B_7 : "🥀 sᴏᴜʀᴄᴇ 🥀"
-S_B_8 : "🥀 ʏᴏᴜᴛᴜʙᴇ 🥀"
+S_B_7 : "⚡ sᴏᴜʀᴄᴇ ⚡"
+S_B_8 : "✨ ʏᴏᴜᴛᴜʙᴇ ✨"
 S_B_9 : "🥀 sᴜᴩᴩᴏʀᴛ 🥀"
 
 H_B_1 : "Aᴅᴍɪɴ"
